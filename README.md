@@ -1,4 +1,4 @@
-# Multiplayer Realtime OpenWorld Game
+# Multiplayer Realtime Open World Game
 
 * Created in 𝗣𝗵𝗮𝘀𝗲𝗿𝟯,
 * Registration and login, 𝗷𝘄𝘁-𝗮𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻,
