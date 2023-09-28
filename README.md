@@ -6,3 +6,5 @@
 * 𝗡𝗼𝗱𝗲.𝗷𝘀 server enviroment,
 * 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀 library,
 * 𝗠𝗼𝗻𝗴𝗼𝗱𝗯 database,
+
+* [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VI...)](https://www.youtube.com/watch?v=YOUTU...)
